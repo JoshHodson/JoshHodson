@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JoshHodson a Computer Science teacher
+- 👀 I’m interested in future tech
+- 🌱 I’m currently learning React
